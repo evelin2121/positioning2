@@ -1,0 +1,16 @@
+.padre { position: static;
+      background-color: #591E30;
+      width: 400px;
+      height: 400px;}
+
+.cuadro1 { position:relative;
+	       top:100px;
+	       left: 100px;
+           background-color: #8E7A7D;
+           width: 200px;
+           height: 200px;}   
+.cuadro2 { position: absolute;
+	       top:8px;
+	       background-color: #8E3063;
+           width: 100px;
+           height: 100px;}              
